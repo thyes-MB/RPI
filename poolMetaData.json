@@ -3,6 +3,7 @@
 "description": "Raspberry Pi Pool",
 "ticker": "RPI",
 "homepage": "https://raspberryrpi.com/"
+"extended": "https://raw.githubusercontent.com/thyes-MB/RPI/599cd3753740ee899ca4a80f2fa64c98ce9006b1/extended-RPI.json"
 }
 
 
